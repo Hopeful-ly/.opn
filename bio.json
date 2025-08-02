@@ -1,22 +1,22 @@
 {
   "version": 1,
-  "name": "Your Name",
-  "description": "A Short Description",
+  "name": "Mohammad R. B.",
+  "description": "Web, Software and Tooling enthusiast",
   "sections": [
     {
       "title": "About Me",
       "type": "text",
-      "content": "A longer description about you."
+      "content": "A university student with a desire for improving the experience of humans. I work on full-stack projects and develope complex architectures. I have a wild range of experiences working in different teams with different goals and I've come to reach a great balance in time-quality efficiency. "
     },
     {
       "title": "Experience",
       "type": "list",
       "items": [
         {
-          "title": "Company One",
-          "description": "Software Engineer.",
-          "url": "https://example.com",
-          "date": "2025–Present"
+          "title": "Markets Flare",
+          "description": "Software Engineer",
+          "url": "https://marketsflare.com",
+          "date": "2024–Present"
         }
       ]
     },
@@ -25,12 +25,12 @@
       "type": "links",
       "links": [
         {
-          "title": "Website",
-          "url": "https://example.com"
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/badpaaa/"
         },
         {
           "title": "GitHub",
-          "url": "https://github.com/example"
+          "url": "https://github.com/Hopeful-ly"
         }
       ]
     }
